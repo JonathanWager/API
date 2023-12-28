@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# TypeScript
+*.tsbuildinfo
+
+# MongoDB
+.DS_Store
+.env
+
+#database file
+db.ts
